@@ -1,0 +1,21 @@
+Description Of My App :-
+
+The Name of my App is "Gaming Consoles", It Has 4 Different types of consoles information that everyone can use to get details of the consoles.
+it has 4 different consoles that is :-
+1 - Gaming PC
+2 - PlayStation 5
+3 - VR Headset
+4 - Xbox
+
+when you click on any of the console it Open a new screen where you can find the details about its Top 3 Games, along with a link to buying it.
+
+Wireframe :-
+1 - Opening Screen - Which will show the list of consoles which are clickable.
+2 - Gaming PC Screen - In This screen you can see gaming PC's Top 3 games.
+3 - PlayStation 5 Screen - In This Screen you can see Playstation 5's Top 3 games.
+4 - VR Screen - In This Screen you can see VR Headset's Top 3 games.
+5 - Xbox Screen - In This screen you can see Xbox's Top 3 games.
+
+Who Will Find This App Helpful,
+Whenever Someone is going to purchase a console for themselves, this app is going to help them finding the top games that they can play.
+This App uses React Native So, it is so easy to navigate from one console screen to another.
